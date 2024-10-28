@@ -1,5 +1,7 @@
-Hi, I’m @ParkingCars
+I'm Jonathan Parker, a Student in Computer Science at Southern Arkansas University. 
+I'm a tinkerer at heart, whether it be my 3d printer or my linux install. 
 
-And no, I'm not currently parking a car.
+Decent enough at python and using the Django framework more and more every day.
+Always looking to learn.
 
-If you need to email me for anything, which I kinda doubt, jparkerlinux@gmail.com (It's a stupid email I made, eventually going to host my own email. UNTIL THEN)
+My email is jonathanparkb@gmail.com
